@@ -1,0 +1,10 @@
+print(abs(-500))
+print(min(5, -25, 100, 0))
+print(max(5, -25, 100, 0))
+print(5**3)
+print(pow(5, 3))
+
+print(round(2.556563523))
+print(round(2.456563523))
+print(round(2.452563523, 2))
+print(-25, abs(-25), abs(min(-26, -5, -10)))

@@ -3,6 +3,7 @@
 
 age = 0
 height = -175.545453534534
+my_complex = 1j
 name = 'Alex Komanov'
 isTrue = False  # True
 
@@ -24,3 +25,5 @@ print(type(my_list))
 print(type(my_tuple))
 print(type(my_set))
 print(type(my_dict))
+print(my_complex)
+print(type(my_complex))
