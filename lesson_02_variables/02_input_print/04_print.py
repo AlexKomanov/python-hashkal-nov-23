@@ -1,0 +1,6 @@
+print(5, 10, "alex", "komanov")
+print(5, 10, "alex", "komanov", sep=" ")
+print(5, 10, "alex", "komanov", sep="")
+print(5, 10, "alex", "komanov", sep="\t")
+print(5, 10, "alex", "komanov", end="!!!!!\n", sep="," )
+print(5, 10, "alex", "komanov", sep=",")
