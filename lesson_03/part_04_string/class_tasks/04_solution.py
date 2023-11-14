@@ -1,0 +1,5 @@
+letter_1, letter_2 = (input("Enter two letter: ")).split()
+print(letter_1)
+print(letter_2)
+print(ord(letter_1))
+print(ord(letter_2))
